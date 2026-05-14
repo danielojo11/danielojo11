@@ -54,7 +54,7 @@ Git, VS Code
 
 ## 📫 Contact
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* Email: [dojo8702@gmail](mailto:your@email.com)
+* LinkedIn: [https://www.linkedin.com/in/daniel-ojo-49a44729b](https://linkedin.com/in/yourprofile)
 
 ---
