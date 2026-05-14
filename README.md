@@ -37,10 +37,12 @@ Git, VS Code
 * Role-based dashboards (students and instructors)
 * Integrated AI assistant for explanations, quizzes, and flashcards
 
-### Quiz Application
+### Interactive Writing Environment with AI Features
 
-* Interactive quiz platform built with React
-* Focus on responsive design and performance
+* Built with React and modern UI tooling
+* Real-time AI-powered writing assistance (suggestions, corrections, and explanations)
+* Supports structured note-taking and content generation
+* Designed for clarity, productivity, and seamless user experience
 
 ---
 
@@ -53,6 +55,6 @@ Git, VS Code
 ## 📫 Contact
 
 * Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
