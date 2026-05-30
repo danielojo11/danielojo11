@@ -7,25 +7,25 @@
 ## 🚀 About Me
 
 * 🎓 Software Engineering undergraduate
-* 🤖 Interested in Artificial Intelligence, Machine Learning, and Systems Engineering
+* 🤖 Interested in Artificial Intelligence, Machine Learning, and Backend Systems Engineering
 * 🛠️ Focused on building scalable and efficient applications
-* 📚 Currently learning Operating Systems, AI, and Software Architecture
+* 📚 Currently learning AI, and Backend Systems Design
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages:**
-Python, Java, JavaScript
+Python, JavaScript, TypeScript
 
 **Frontend:**
 React, Tailwind CSS
 
 **Backend:**
-Django, Node.js, Express
+Django, Node.js, Express.js
 
 **Tools & Technologies:**
-Git, VS Code
+Git, VS Code, postgresql, redis, grafana,
 
 ---
 
@@ -54,7 +54,7 @@ Git, VS Code
 
 ## 📫 Contact
 
-* Email: [dojo8702@gmail](mailto:your@email.com)
+* Email: [dojo8702@gmail.com](mailto:your@email.com)
 * LinkedIn: [https://www.linkedin.com/in/daniel-ojo-49a44729b](https://linkedin.com/in/yourprofile)
 
 ---
